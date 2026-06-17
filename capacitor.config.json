@@ -1,0 +1,10 @@
+{
+  "appId": "com.alfikri.moneytrack",
+  "appName": "MoneyTracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
